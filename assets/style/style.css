@@ -125,7 +125,7 @@
 }
 
 .images-container:nth-child(1) {
-  transform: translateX(-200%);
+  transform: translateX(-220%);
 }
 
 .images-container:nth-child(2) {
