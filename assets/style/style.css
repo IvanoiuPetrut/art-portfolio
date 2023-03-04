@@ -111,9 +111,6 @@
 }
 
 .images-container > img {
-  /* width: 40vw;
-  height: 20vh; */
-  width: 100%;
   height: 20vh;
   object-fit: cover;
 }
