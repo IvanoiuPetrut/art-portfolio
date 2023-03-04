@@ -25,6 +25,7 @@ body {
   background-color: var(--bg);
   color: var(--text);
   transition: background-color 0.5s ease-in-out;
+  cursor: grab;
 
   position: relative;
 }
